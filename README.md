@@ -22,9 +22,3 @@ A simple personal expense tracker built using Streamlit. This app helps you add,
 - Pandas (data handling)
 - Plotly and Altair (visualizations)
 
-##  How to Run
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/your-username/money-manager.git
-   cd money-manager
